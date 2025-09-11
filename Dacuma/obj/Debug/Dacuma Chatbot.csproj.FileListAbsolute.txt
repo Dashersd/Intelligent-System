@@ -1,0 +1,27 @@
+C:\Users\HELMAN\source\repos\Dacuma\Dacuma\bin\Debug\Dacuma.exe.config
+C:\Users\HELMAN\source\repos\Dacuma\Dacuma\bin\Debug\Dacuma.exe
+C:\Users\HELMAN\source\repos\Dacuma\Dacuma\bin\Debug\Dacuma.pdb
+C:\Users\HELMAN\source\repos\Dacuma\Dacuma\obj\Debug\Dacuma Chatbot.csprojAssemblyReference.cache
+C:\Users\HELMAN\source\repos\Dacuma\Dacuma\obj\Debug\Dacuma.Form1.resources
+C:\Users\HELMAN\source\repos\Dacuma\Dacuma\obj\Debug\Dacuma.Form2.resources
+C:\Users\HELMAN\source\repos\Dacuma\Dacuma\obj\Debug\Dacuma.Properties.Resources.resources
+C:\Users\HELMAN\source\repos\Dacuma\Dacuma\obj\Debug\Dacuma Chatbot.csproj.GenerateResource.cache
+C:\Users\HELMAN\source\repos\Dacuma\Dacuma\obj\Debug\Dacuma Chatbot.csproj.CoreCompileInputs.cache
+C:\Users\HELMAN\source\repos\Dacuma\Dacuma\obj\Debug\Dacuma.exe
+C:\Users\HELMAN\source\repos\Dacuma\Dacuma\obj\Debug\Dacuma.pdb
+C:\Users\HELMAN\source\repos\Dacuma and Arsenal\Dacuma\bin\Debug\Dacuma.exe.config
+C:\Users\HELMAN\source\repos\Dacuma and Arsenal\Dacuma\bin\Debug\Dacuma.exe
+C:\Users\HELMAN\source\repos\Dacuma and Arsenal\Dacuma\bin\Debug\Dacuma.pdb
+C:\Users\HELMAN\source\repos\Dacuma and Arsenal\Dacuma\obj\Debug\Dacuma Chatbot.csprojAssemblyReference.cache
+C:\Users\HELMAN\source\repos\Dacuma and Arsenal\Dacuma\obj\Debug\Dacuma.Form1.resources
+C:\Users\HELMAN\source\repos\Dacuma and Arsenal\Dacuma\obj\Debug\Dacuma.Form2.resources
+C:\Users\HELMAN\source\repos\Dacuma and Arsenal\Dacuma\obj\Debug\Dacuma.Properties.Resources.resources
+C:\Users\HELMAN\source\repos\Dacuma and Arsenal\Dacuma\obj\Debug\Dacuma Chatbot.csproj.GenerateResource.cache
+C:\Users\HELMAN\source\repos\Dacuma and Arsenal\Dacuma\obj\Debug\Dacuma Chatbot.csproj.CoreCompileInputs.cache
+C:\Users\HELMAN\source\repos\Dacuma and Arsenal\Dacuma\obj\Debug\Dacuma.exe
+C:\Users\HELMAN\source\repos\Dacuma and Arsenal\Dacuma\obj\Debug\Dacuma.pdb
+C:\Users\HELMAN\source\repos\Dacuma and Arsenal\Dacuma\obj\Debug\Dacuma.ChatBotForm.resources
+C:\Users\HELMAN\source\repos\Dacuma and Arsenal\Dacuma\obj\Debug\Dacuma.DashboardForm.resources
+C:\Users\HELMAN\source\repos\Dacuma and Arsenal\Dacuma\obj\Debug\Dacuma.FaceRecognitionForm.resources
+C:\Users\HELMAN\source\repos\Dacuma and Arsenal\Dacuma\obj\Debug\Dacuma.SettingsForm.resources
+C:\Users\HELMAN\source\repos\Dacuma and Arsenal\Dacuma\obj\Debug\Dacuma.UserManagerForm.resources

@@ -1,0 +1,10 @@
+C:\Users\HELMAN\source\repos\Dacuma\Dacuma\bin\Debug\Dacuma.exe.config
+C:\Users\HELMAN\source\repos\Dacuma\Dacuma\bin\Debug\Dacuma.exe
+C:\Users\HELMAN\source\repos\Dacuma\Dacuma\bin\Debug\Dacuma.pdb
+C:\Users\HELMAN\source\repos\Dacuma\Dacuma\obj\Debug\Dacuma.csprojAssemblyReference.cache
+C:\Users\HELMAN\source\repos\Dacuma\Dacuma\obj\Debug\Dacuma.Form1.resources
+C:\Users\HELMAN\source\repos\Dacuma\Dacuma\obj\Debug\Dacuma.Properties.Resources.resources
+C:\Users\HELMAN\source\repos\Dacuma\Dacuma\obj\Debug\Dacuma.csproj.GenerateResource.cache
+C:\Users\HELMAN\source\repos\Dacuma\Dacuma\obj\Debug\Dacuma.csproj.CoreCompileInputs.cache
+C:\Users\HELMAN\source\repos\Dacuma\Dacuma\obj\Debug\Dacuma.exe
+C:\Users\HELMAN\source\repos\Dacuma\Dacuma\obj\Debug\Dacuma.pdb
