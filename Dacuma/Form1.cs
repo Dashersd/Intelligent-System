@@ -70,5 +70,22 @@ namespace Dacuma
         {
 
         }
+
+        private void label4_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void SignIn_label_Click(object sender, EventArgs e)
+        {
+          
+            Create_Account createAccountForm = new Create_Account();
+
+            createAccountForm.Show();
+            createAccountForm.BringToFront();
+            createAccountForm.Activate();
+            this.Hide();
+
+        }
     }
 }

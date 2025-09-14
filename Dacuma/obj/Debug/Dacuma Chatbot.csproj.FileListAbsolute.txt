@@ -25,3 +25,4 @@ C:\Users\HELMAN\source\repos\Dacuma and Arsenal\Dacuma\obj\Debug\Dacuma.Dashboar
 C:\Users\HELMAN\source\repos\Dacuma and Arsenal\Dacuma\obj\Debug\Dacuma.FaceRecognitionForm.resources
 C:\Users\HELMAN\source\repos\Dacuma and Arsenal\Dacuma\obj\Debug\Dacuma.SettingsForm.resources
 C:\Users\HELMAN\source\repos\Dacuma and Arsenal\Dacuma\obj\Debug\Dacuma.UserManagerForm.resources
+C:\Users\HELMAN\source\repos\Dacuma and Arsenal\Dacuma\obj\Debug\Dacuma.Create_Account.resources
